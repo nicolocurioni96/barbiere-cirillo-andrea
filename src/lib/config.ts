@@ -1,6 +1,7 @@
 export const businessConfig = {
   // Identity
   name: "Barbiere Cirillo Andrea",
+  category: "barbershop",
   tagline: "Il tuo look, la nostra passione. A Bologna dal 2014.",
   city: "Bologna",
 
@@ -8,6 +9,7 @@ export const businessConfig = {
   address: "Piazza dell'Unità, 3b, 40128 Bologna BO",
   phone: "+39 393 297 5739",
   email: "",
+  bookingUrl: "",
 
   // Online presence
   googleMapsUrl: "https://maps.google.com/?q=Piazza%20dell'Unit%C3%A0%2C%203b%2C%2040128%20Bologna%20BO",
